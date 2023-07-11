@@ -26,3 +26,5 @@ pnpm-debug.log*
 /components.d.ts
 /components.d.ts
 
+/.env.production
+/.env.development

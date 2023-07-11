@@ -61,6 +61,10 @@ pnpm build
 # 第一次先创建 bucket
 laf storage create bucketName
 
+# 按模板创建.env.production.example
+创建.env.production  
+
+# 编译
 pnpm build
 
 # 在 laf-cloud 目录下执行，发布静态资源到 bucket
