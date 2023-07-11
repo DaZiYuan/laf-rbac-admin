@@ -4,3 +4,6 @@ types
 node_modules
 .secret.yaml
 laf.yaml
+.app.yaml
+dependency.yaml
+*lock.json
